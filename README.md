@@ -7,5 +7,5 @@ This repository contains various web scraping projects built using Python. Each 
 ### Project-0: Automatic Wikipedia Summary Generator
 
 Objective: Scrape full Wikipedia articles and automatically summarize the text using Natural Language Processing (NLP).
-Libraries Used: requests, BeautifulSoup, NLTK
-Learn More
+Libraries Used: requests, BeautifulSoup, NLTK.
+[Learn More](https://github.com/jbeninjaa/Web-Scraping/tree/main/Project-0)
